@@ -1,0 +1,28 @@
+@import './partials/header',
+        './partials/images-section',
+        './partials/footer';
+
+.continer.header {
+    width: 100vw;
+}
+
+@font-face {
+    font-family: 'header-text';
+    src: url('../webfonts/Sweetly\ Broken.ttf');
+}
+
+@font-face {
+    font-family: 'email-text';
+    src: url('../webfonts/Skull\ Dutchman.otf');
+}
+
+
+@font-face {
+    font-family: 'personal-text';
+    src: url('../webfonts/amaline.otf');
+}
+
+@font-face {
+    font-family: 'next-page-text';
+    src: url('../webfonts/Moon\ Flower.ttf');
+}

@@ -1,0 +1,20 @@
+.container.footer {
+    position: fixed;
+    bottom:0;
+    max-width: 100vw;
+    height: 55px;
+    background-color: rgba(0, 0, 0, 0.657);
+    display: grid;
+    justify-content: center;
+}
+
+
+.personal-details {
+  margin-top: 3%;
+}
+
+.personal-text {
+  color: #fff;
+  font-family: 'personal-text';
+  font-size: 35px;
+}
