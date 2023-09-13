@@ -2,7 +2,7 @@
 /*------- API -------*/
  function get_image() {
     let access_key = 'FxRcuJ9xM-byHM61QuIvlNIUX-kuVsp0B2hNRenYLqY';
-    let url = `https://api.unsplash.com/photos/random/?client_id=FxRcuJ9xM-byHM61QuIvlNIUX-kuVsp0B2hNRenYLqY`;
+    let url = `https://api.unsplash.com/photos/random/?client_id=5_aoOCYZXCPO7Nz7F1GN0FCQykKJlUuXWtczNtMR7ss`;
     
     let imageElement = document.querySelector('.image');
     
